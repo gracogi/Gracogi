@@ -6,7 +6,7 @@ O projeto se concentra em um site para confeitaria que visa criar uma plataforma
 
 ## ⚙️ Executando os testes
 
-(Forneceremos um guia passo-a-passo sobre como acessar o site e utilizá-lo)
+(Forneceremos um guia passo-a-passo sobre como acessar o site e utilizá-lo.)
 
 ## 🛠️ Construído com
 
