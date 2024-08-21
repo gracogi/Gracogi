@@ -1,27 +1,18 @@
-# Esme Sweet Cake
+# Olá, me chamo Giovanna! 👋
 
-## 🚀 Começando
+## 🚀 About Me
+Estou sempre em busca de novas experiências e desafios, pois acredito que o equilíbrio entre trabalho e lazer é essencial. Além disso, estou comprometida em desenvolver meu potencial, enquanto continuo a explorar tudo o que o mundo tem a oferecer.
 
-O projeto se concentra em um site para confeitaria que visa criar uma plataforma atraente e funcional que ofereça aos clientes a capacidade de reservar mesas por meio de um formulário intuitivo. Além disso, o site fornecerá uma seção dedicada à exibição de todos os doces e salgados oferecidos pela empresa, apresentando-os de forma visualmente clara e informativa. O design do site será elegante e responsivo, proporcionando uma experiência de usuário agradável em dispositivos móveis e desktops. A integração de um sistema de reservas e exibição de produtos será fundamental para garantir que os clientes possam desfrutar da variedade de opções culinárias oferecidas pela confeitaria de forma conveniente e eficiente.
+## 🛠 Skills
+* **Desenvolvimento de Software:** Incluindo linguagens de programação como Python, C++, HTML entre outras, bem como frameworks e metodologias de desenvolvimento ágil.
+* **Administração de Sistemas:** Conhecimento em sistemas operacionais como Windows e Linux.
+* **Segurança da Informação:** Compreensão de práticas de segurança cibernética, criptografia, prevenção de ameaças, testes de penetração, entre outros.
+* **Gestão de Projetos de TI:** Compreensão de metodologias como Scrum, Kanban, e ferramentas de gestão de projetos como Jira ou Trello.
+* **Análise de Dados e Business Intelligence:** Habilidades em SQL, ferramentas de visualização de dados como Tableau ou Power BI, e compreensão de conceitos de data mining e machine learning.
 
-## ⚙️ Executando os testes
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gracogi.github.io/) 
 
-(Forneceremos um guia passo-a-passo sobre como acessar o site e utilizá-lo.)
-
-## 🛠️ Construído com
-
-(No final, adicionaremos todas as ferramentas que utilizamos para o desenvolvimento.)
-
-## ✒️ Autores
-
-* **Giovanna Soprano** - *gracogi* 
-* **Leandro de Oliveira** - *leandro-schiavo*
-* **Ana Sanchez** - *aninhasanchez*
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-soprano-ba5418273)
 
 
-## 🎁 Expressões de gratidão
-
-* Gostaríamos de expressar nosso sincero agradecimento pelo projeto e esperamos poder contar com sua colaboração para continuarmos a construir juntos.
-
----
-⌨️ com ❤️ por Inova Dev's 😊
