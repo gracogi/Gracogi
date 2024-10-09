@@ -13,7 +13,7 @@ Estou sempre em busca de novas experiências e desafios, pois acredito que o equ
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gracogi.github.io/) 
 
-<h4>Contato: </h4>
+## 📞 Contato
 <a href="mailto:gracogi029@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
